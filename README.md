@@ -6,3 +6,7 @@ ABE tackles the issue of having to manually implement the same set of edits to a
 
 1. Clone the repository
 2. Install dependencies with "pip install -r requirement.txt"
+
+
+Legend for Code:
+Original - User Input Images
